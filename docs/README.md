@@ -6,7 +6,7 @@
 
 <p class="hero-author">נוצר על ידי Orin Levi</p>
 
-[:fontawesome-solid-file-pdf: הורד סיכום PDF](assets/summary.pdf){ .md-button .md-button--primary }
+[הורד סיכום PDF](assets/summary.pdf){ .md-button .md-button--primary download }
 
 </div>
 
