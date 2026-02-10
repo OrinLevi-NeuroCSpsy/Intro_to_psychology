@@ -1,10 +1,10 @@
 site_name: מבוא לפסיכולוגיה
 site_description: סיכום מקיף לקורס מבוא לפסיכולוגיה, אוניברסיטת תל אביב
 docs_dir: docs
-site_url: https://orinlevi-neurocspsy.github.io/Intro_to_psychlogy/
+site_url: https://orinlevi-neurocspsy.github.io/Intro_to_psychology/
 
-repo_name: Intro_to_psychlogy
-repo_url: https://github.com/OrinLevi-NeuroCSpsy/Intro_to_psychlogy
+repo_name: Intro_to_psychology
+repo_url: https://github.com/OrinLevi-NeuroCSpsy/Intro_to_psychology
 
 extra_css:
   - stylesheets/extra.css
@@ -12,10 +12,12 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/OrinLevi-NeuroCSpsy/Intro_to_psychlogy
+      link: https://github.com/OrinLevi-NeuroCSpsy/Intro_to_psychology
 
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
   language: he
   direction: rtl
   palette:
