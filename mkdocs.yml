@@ -70,14 +70,14 @@ extra_javascript:
 nav:
   - בית: README.md
   - סיכומים:
-    - יחידה 1 - מהי פסיכולוגיה: notes/unit_1.md
-    - יחידה 2 - גישות בפסיכולוגיה: notes/unit_2.md
-    - יחידה 3 - קוגניציה: notes/unit_3.md
-    - יחידה 4 - גוף ומוח: notes/unit_4.md
-    - יחידה 5 - פסיכולוגיה התפתחותית: notes/unit_5.md
-    - יחידה 6 - פסיכולוגיה חברתית: notes/unit_6.md
-    - יחידה 7 - הבדלים בינאישיים: notes/unit_7.md
-    - יחידה 8 - פסיכופתולוגיה: notes/unit_8.md
+    - 1. מהי פסיכולוגיה: notes/unit_1.md
+    - 2. הביהביוריזם: notes/unit_2.md
+    - 3. קוגניציה: notes/unit_3.md
+    - 4. גוף ומוח: notes/unit_4.md
+    - 5. התפתחות: notes/unit_5.md
+    - 6. חברתית: notes/unit_6.md
+    - 7. הבדלים בינאישיים: notes/unit_7.md
+    - 8. פסיכופתולוגיה: notes/unit_8.md
     - הרצאות אורח: notes/guest_lectures.md
   - תרגול למבחן:
     - שאלות ממבחנים: exams/questions.md
