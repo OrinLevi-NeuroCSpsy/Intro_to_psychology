@@ -6,7 +6,8 @@
 
 <p class="hero-author">נוצר על ידי Orin Levi</p>
 
-[📥 הורד סיכום PDF](assets/summary.pdf){ .md-button .md-button--primary download }
+[📥 הורד סיכום שלי](assets/mellel_summary.pdf){ .md-button .md-button--primary download }
+[📄 הורד סיכום LaTeX](assets/summary.pdf){ .md-button download }
 
 </div>
 
