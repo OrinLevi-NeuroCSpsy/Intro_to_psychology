@@ -135,13 +135,13 @@
 
 <div class="quick-links" markdown>
 
-[:material-brain: יחידה 1](notes/unit_1.md){ .quick-link }
-[:material-school: יחידה 2](notes/unit_2.md){ .quick-link }
-[:material-head-cog: יחידה 3](notes/unit_3.md){ .quick-link }
-[:material-head-flash: יחידה 4](notes/unit_4.md){ .quick-link }
-[:material-baby-face: יחידה 5](notes/unit_5.md){ .quick-link }
-[:material-account-group: יחידה 6](notes/unit_6.md){ .quick-link }
-[:material-chart-bar: יחידה 7](notes/unit_7.md){ .quick-link }
-[:material-hospital-box: יחידה 8](notes/unit_8.md){ .quick-link }
+[🧠 יחידה 1](notes/unit_1.md){ .quick-link }
+[📚 יחידה 2](notes/unit_2.md){ .quick-link }
+[💭 יחידה 3](notes/unit_3.md){ .quick-link }
+[⚡ יחידה 4](notes/unit_4.md){ .quick-link }
+[👶 יחידה 5](notes/unit_5.md){ .quick-link }
+[👥 יחידה 6](notes/unit_6.md){ .quick-link }
+[📊 יחידה 7](notes/unit_7.md){ .quick-link }
+[🏥 יחידה 8](notes/unit_8.md){ .quick-link }
 
 </div>
